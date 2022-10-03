@@ -1,4 +1,4 @@
-# Luhn-Algorithm-using-C-Language
+# Luhn Algorithm using C Language
 
 <h1><b>Whats is Luhn algorithm ?</b></h1>
 
